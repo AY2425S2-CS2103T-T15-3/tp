@@ -134,7 +134,8 @@
         "employee-management": "Employee Management",
         "leave-management": "Leave Management",
         "tag-management": "Tag Management",
-        "system-operations": "System Operations"
+        "system-operations": "System Operations",
+        "parameter-glossary": "Parameter Glossary"
       },
       "headingKeywords": {}
     },

@@ -206,10 +206,10 @@ with(this){return _c('h3',{attrs:{"id":"product-scope"}},[_v("Product scope"),_c
 with(this){return _c('p',[_c('strong',[_v("Target user profile")]),_v(":")])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("has a need to manage a significant number of contacts")]),_v(" "),_c('li',[_v("prefer desktop apps over other types")]),_v(" "),_c('li',[_v("can type fast")]),_v(" "),_c('li',[_v("prefers typing to mouse interactions")]),_v(" "),_c('li',[_v("is reasonably comfortable using CLI apps")])])}
+with(this){return _c('ul',[_c('li',[_v("Small-to-medium enterprises (SME) with limited or no dedicated HR personnel")]),_v(" "),_c('li',[_v("Need to manage a significant number of contacts efficiently")]),_v(" "),_c('li',[_v("Work with multiple employee records daily")]),_v(" "),_c('li',[_v("Need to track staff availability")]),_v(" "),_c('li',[_v("Prefer keyboard-driven productivity tools")]),_v(" "),_c('li',[_v("Value speed and organization in HR tasks")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("Value proposition")]),_v(": manage contacts faster than a typical mouse/GUI driven app")])}
+with(this){return _c('p',[_c('strong',[_v("Value proposition")]),_v(": Manage contacts faster than a typical mouse/GUI driven app")])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"user-stories"}},[_v("User stories"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#user-stories","onclick":"event.stopPropagation()"}})])}
@@ -443,6 +443,6 @@ with(this){return _c('h3',{attrs:{"id":"saving-data"}},[_v("Saving data"),_c('a'
 with(this){return _c('ol',[_c('li',[_c('p',[_v("Dealing with missing data files")]),_v(" "),_c('ol',[_c('li',[_c('p',[_v("Prerequisites: Executed the HRNexus jar file.")])]),_v(" "),_c('li',[_c('p',[_v("Open the home holder of HRNexus. Delete the Data file")])]),_v(" "),_c('li',[_c('p',[_v("Launch the Application: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("java -jar HRNexus.jar")]),_c('br'),_v("\nExpected: Shows the GUI with the sample contacts. The most recent window size and location is\nretained.")])])])]),_v(" "),_c('li',[_c('p',[_v("Dealing with corrupted data files")]),_v(" "),_c('ol',[_c('li',[_c('p',[_v("Prerequisites: Executed the HRNexus jar file.")])]),_v(" "),_c('li',[_c('p',[_v("Open the home holder of HRNexus. Open the Data folder. Open the addressbook.json.")])]),_v(" "),_c('li',[_c('p',[_v("In the open addressbook.json, modify the first \"persons\" at line 1 to \"ersons\". Close and Save the file.")])]),_v(" "),_c('li',[_c('p',[_v("Launch the Application: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("java -jar HRNexus.jar")]),_c('br'),_v("\nExpected: Shows the GUI with empty contacts. The most recent window size and location is retained.")])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.6.0")]),_v(", generated on Tue, 8 Apr 2025, 12:53:49 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.6.0")]),_v(", generated on Tue, 8 Apr 2025, 12:54:31 GMT+8]")])])])}
 }];
   
